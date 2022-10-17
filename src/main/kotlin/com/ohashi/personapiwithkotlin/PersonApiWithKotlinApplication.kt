@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class PersonApiWithKotlinApplication
 
 fun main(args: Array<String>) {
-	runApplication<PersonApiWithKotlinApplication>(*args)
+    runApplication<PersonApiWithKotlinApplication>(*args)
 }
